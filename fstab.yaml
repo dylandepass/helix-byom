@@ -1,8 +1,2 @@
 mountpoints:
  /: https://adobe.sharepoint.com/:f:/r/sites/dyland-helix/Shared%20Documents/helix-byom
-
-overlay:
-  type: markup
-  url: https://raw.githubusercontent.com/dyland/helix-byom/main/markup/
-  suffix: '.html'
-  
